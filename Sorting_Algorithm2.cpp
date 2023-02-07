@@ -1,5 +1,5 @@
 //***********************Selection Sort************************
-//*********** Repeatedly find minimum element in the unsorted array and put in at beginning**************
+//*********** Repeatedly find minimum element in the unsorted array and put it at beginning**************
 #include<bits/stdc++.h>
 using namespace std;
 void Selection_sort(int *arr,int n){
